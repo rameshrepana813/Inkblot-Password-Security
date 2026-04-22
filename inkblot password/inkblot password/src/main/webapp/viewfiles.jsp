@@ -5,6 +5,7 @@
 <html>
 <head>
     <title>View Files</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
