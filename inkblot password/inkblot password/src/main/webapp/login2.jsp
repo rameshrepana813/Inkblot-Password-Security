@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Image Login</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 
     <style>
         img {
