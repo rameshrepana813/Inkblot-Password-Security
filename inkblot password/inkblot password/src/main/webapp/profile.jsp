@@ -11,6 +11,7 @@ if (session.getAttribute("user") == null) {
 <html>
 <head>
     <title>User Profile</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
