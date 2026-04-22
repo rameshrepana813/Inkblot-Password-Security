@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Register - Step 2</title>
-
+<link rel="stylesheet" type="text/css" href="style.css">
 <style>
 img {
     width: 120px;
