@@ -13,6 +13,7 @@ if(email == null){
 <html>
 <head>
     <title>Reset Password</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
