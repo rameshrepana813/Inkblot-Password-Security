@@ -13,6 +13,7 @@ if(email == null){
 <html>
 <head>
     <title>Reset Image</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 
     <style>
         img {
