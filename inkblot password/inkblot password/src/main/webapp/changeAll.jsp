@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Update Details</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 
     <style>
         img {
