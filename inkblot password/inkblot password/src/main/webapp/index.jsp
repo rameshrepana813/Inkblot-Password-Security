@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Inkblot password security</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <h1>Inkblot Password Security System</h1>
