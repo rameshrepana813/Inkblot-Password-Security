@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Upload File</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
